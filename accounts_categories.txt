@@ -1,0 +1,1626 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 22930
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Devnet
+            [display_name] => Loan: Devnet
+            [balance] => -156474.4000
+            [balance_as_of] => 2021-10-16T00:39:47.560Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-17T00:32:22.242Z
+        )
+
+    [1] => Array
+        (
+            [id] => 23707
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Noor Khan
+            [display_name] => 
+            [balance] => 107500.0000
+            [balance_as_of] => 2021-10-02T04:06:03.991Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:02:48.388Z
+        )
+
+    [2] => Array
+        (
+            [id] => 23715
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Mamuni
+            [display_name] => 
+            [balance] => 300000.0000
+            [balance_as_of] => 2021-10-02T04:55:11.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:55:11.580Z
+        )
+
+    [3] => Array
+        (
+            [id] => 23716
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: RBS
+            [display_name] => 
+            [balance] => 800000.0000
+            [balance_as_of] => 2021-10-02T04:55:36.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:55:36.770Z
+        )
+
+    [4] => Array
+        (
+            [id] => 23727
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Andalib
+            [display_name] => 
+            [balance] => 50000.0000
+            [balance_as_of] => 2021-10-02T05:09:21.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:09:21.984Z
+        )
+
+    [5] => Array
+        (
+            [id] => 23729
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: T
+            [display_name] => 
+            [balance] => 10000.0000
+            [balance_as_of] => 2021-10-02T05:11:34.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:11:34.904Z
+        )
+
+    [6] => Array
+        (
+            [id] => 23726
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Masud Bhai
+            [display_name] => 
+            [balance] => 75000.0000
+            [balance_as_of] => 2021-10-02T13:33:48.250Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:08:35.024Z
+        )
+
+    [7] => Array
+        (
+            [id] => 23709
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Moni
+            [display_name] => 
+            [balance] => 100000.0000
+            [balance_as_of] => 2021-10-02T04:14:43.676Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:08:27.149Z
+        )
+
+    [8] => Array
+        (
+            [id] => 23714
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Bipu Bhai
+            [display_name] => 
+            [balance] => -45000.0000
+            [balance_as_of] => 2021-11-26T01:14:23.439Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:54:49.562Z
+        )
+
+    [9] => Array
+        (
+            [id] => 23720
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Threedots
+            [display_name] => 
+            [balance] => 143000.0000
+            [balance_as_of] => 2021-10-02T04:57:24.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:57:24.394Z
+        )
+
+    [10] => Array
+        (
+            [id] => 23721
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Raju Bhai
+            [display_name] => 
+            [balance] => 121500.0000
+            [balance_as_of] => 2021-10-02T04:57:59.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:57:59.211Z
+        )
+
+    [11] => Array
+        (
+            [id] => 23718
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Rubayet
+            [display_name] => 
+            [balance] => 170000.0000
+            [balance_as_of] => 2021-10-02T13:28:10.646Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T04:56:43.350Z
+        )
+
+    [12] => Array
+        (
+            [id] => 23731
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Shaykh Masum
+            [display_name] => 
+            [balance] => 30000.0000
+            [balance_as_of] => 2021-10-02T05:13:42.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:13:42.449Z
+        )
+
+    [13] => Array
+        (
+            [id] => 23732
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Shaykh Kobbadi
+            [display_name] => 
+            [balance] => 25000.0000
+            [balance_as_of] => 2021-10-02T05:14:03.000Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:14:03.523Z
+        )
+
+    [14] => Array
+        (
+            [id] => 23730
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Sifat
+            [display_name] => 
+            [balance] => -552.7000
+            [balance_as_of] => 2021-10-02T13:31:00.229Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:12:16.499Z
+        )
+
+    [15] => Array
+        (
+            [id] => 22963
+            [type_name] => cash
+            [subtype_name] => physical cash
+            [name] => Wallet
+            [display_name] => Wallet
+            [balance] => -437331.1000
+            [balance_as_of] => 2021-11-26T03:23:47.616Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-18T07:01:06.977Z
+        )
+
+    [16] => Array
+        (
+            [id] => 23737
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Anis Bhai
+            [display_name] => 
+            [balance] => 26511.5300
+            [balance_as_of] => 2021-10-02T13:27:17.937Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T05:41:11.087Z
+        )
+
+    [17] => Array
+        (
+            [id] => 23750
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Imran
+            [display_name] => 
+            [balance] => -10016.8600
+            [balance_as_of] => 2021-10-13T01:25:41.025Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-10-02T15:06:42.629Z
+        )
+
+    [18] => Array
+        (
+            [id] => 22964
+            [type_name] => cash
+            [subtype_name] => digital wallet (paypal, venmo)
+            [name] => Payoneer Jinath
+            [display_name] => Payoneer Jinath
+            [balance] => 50.0000
+            [balance_as_of] => 2021-10-02T15:09:02.498Z
+            [closed_on] => 
+            [currency] => usd
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-18T07:01:49.322Z
+        )
+
+    [19] => Array
+        (
+            [id] => 22974
+            [type_name] => other asset
+            [subtype_name] => 
+            [name] => Misc
+            [display_name] => Misc
+            [balance] => -24000.0000
+            [balance_as_of] => 2021-09-18T12:53:55.879Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-18T12:38:29.199Z
+        )
+
+    [20] => Array
+        (
+            [id] => 22566
+            [type_name] => cash
+            [subtype_name] => digital wallet (paypal, venmo)
+            [name] => bKash
+            [display_name] => bKash
+            [balance] => -3300.2800
+            [balance_as_of] => 2021-10-02T13:33:56.760Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T07:57:59.974Z
+        )
+
+    [21] => Array
+        (
+            [id] => 22562
+            [type_name] => cash
+            [subtype_name] => savings
+            [name] => CBL
+            [display_name] => CBL
+            [balance] => 18522.5900
+            [balance_as_of] => 2021-11-26T04:38:35.751Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T07:49:42.941Z
+        )
+
+    [22] => Array
+        (
+            [id] => 22565
+            [type_name] => cash
+            [subtype_name] => savings
+            [name] => IBBL
+            [display_name] => IBBL
+            [balance] => 502.2900
+            [balance_as_of] => 2021-09-17T00:56:19.453Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T07:53:35.297Z
+        )
+
+    [23] => Array
+        (
+            [id] => 22564
+            [type_name] => credit
+            [subtype_name] => credit card
+            [name] => AMEX
+            [display_name] => AMEX
+            [balance] => -41870.6300
+            [balance_as_of] => 2021-10-02T13:32:33.745Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T07:52:45.075Z
+        )
+
+    [24] => Array
+        (
+            [id] => 22563
+            [type_name] => cash
+            [subtype_name] => digital wallet (paypal, venmo)
+            [name] => Payoneer
+            [display_name] => Payoneer
+            [balance] => 14255.8800
+            [balance_as_of] => 2021-10-28T06:41:26.096Z
+            [closed_on] => 
+            [currency] => usd
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T07:50:29.122Z
+        )
+
+    [25] => Array
+        (
+            [id] => 22579
+            [type_name] => loan
+            [subtype_name] => Other
+            [name] => Loan: Other
+            [display_name] => Loan: Other
+            [balance] => 25135.0200
+            [balance_as_of] => 2021-10-02T13:33:48.212Z
+            [closed_on] => 
+            [currency] => bdt
+            [institution_name] => 
+            [exclude_transactions] => 
+            [created_at] => 2021-09-11T12:51:25.297Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 248235
+            [name] => Abbu
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.484Z
+            [created_at] => 2021-09-11T12:34:28.484Z
+            [is_group] => 
+            [group_id] => 278423
+        )
+
+    [1] => Array
+        (
+            [id] => 248200
+            [name] => Academy
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:57.669Z
+            [created_at] => 2021-09-11T12:13:57.669Z
+            [is_group] => 
+            [group_id] => 248197
+        )
+
+    [2] => Array
+        (
+            [id] => 248280
+            [name] => Akaunting
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.613Z
+            [created_at] => 2021-09-11T12:42:26.613Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [3] => Array
+        (
+            [id] => 248180
+            [name] => Apparel
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:10:31.477Z
+            [created_at] => 2021-09-11T12:10:31.477Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 248183
+            [name] => Baby
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:11:44.108Z
+            [created_at] => 2021-09-11T12:11:44.108Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 248186
+            [name] => Baby Food
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:11:44.130Z
+            [created_at] => 2021-09-11T12:11:44.130Z
+            [is_group] => 
+            [group_id] => 248183
+        )
+
+    [6] => Array
+        (
+            [id] => 248187
+            [name] => Baby Items/Supplies
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:11:44.136Z
+            [created_at] => 2021-09-11T12:11:44.136Z
+            [is_group] => 
+            [group_id] => 248183
+        )
+
+    [7] => Array
+        (
+            [id] => 250741
+            [name] => Balance Difference
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-18T06:57:58.500Z
+            [created_at] => 2021-09-18T06:57:58.500Z
+            [is_group] => 
+            [group_id] => 250740
+        )
+
+    [8] => Array
+        (
+            [id] => 248246
+            [name] => Banda Reza
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.970Z
+            [created_at] => 2021-09-11T12:35:30.970Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [9] => Array
+        (
+            [id] => 248189
+            [name] => Banking
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:12:30.764Z
+            [created_at] => 2021-09-11T12:12:30.764Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [10] => Array
+        (
+            [id] => 248193
+            [name] => Beauty
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:37.636Z
+            [created_at] => 2021-09-11T12:13:37.636Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [11] => Array
+        (
+            [id] => 248209
+            [name] => Beverages/Coffee
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:15:20.680Z
+            [created_at] => 2021-09-11T12:15:20.680Z
+            [is_group] => 
+            [group_id] => 248176
+        )
+
+    [12] => Array
+        (
+            [id] => 248198
+            [name] => Books
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:57.656Z
+            [created_at] => 2021-09-11T12:13:57.656Z
+            [is_group] => 
+            [group_id] => 248197
+        )
+
+    [13] => Array
+        (
+            [id] => 248211
+            [name] => Breakfast/Lunch/Dinner/Snacks
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:15:20.692Z
+            [created_at] => 2021-09-11T12:15:20.692Z
+            [is_group] => 
+            [group_id] => 248176
+        )
+
+    [14] => Array
+        (
+            [id] => 248191
+            [name] => Card Fees
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:12:30.779Z
+            [created_at] => 2021-09-11T12:12:30.779Z
+            [is_group] => 
+            [group_id] => 248189
+        )
+
+    [15] => Array
+        (
+            [id] => 258909
+            [name] => Client Expenses
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-10-13T00:40:01.313Z
+            [created_at] => 2021-10-13T00:40:01.313Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [16] => Array
+        (
+            [id] => 248181
+            [name] => Clothing
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:10:31.483Z
+            [created_at] => 2021-09-11T12:10:31.483Z
+            [is_group] => 
+            [group_id] => 248180
+        )
+
+    [17] => Array
+        (
+            [id] => 248194
+            [name] => Cosmetics
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:37.643Z
+            [created_at] => 2021-09-11T12:13:37.643Z
+            [is_group] => 
+            [group_id] => 248193
+        )
+
+    [18] => Array
+        (
+            [id] => 248278
+            [name] => Devnet
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.600Z
+            [created_at] => 2021-09-11T12:42:26.600Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [19] => Array
+        (
+            [id] => 248271
+            [name] => Digital Asset
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.491Z
+            [created_at] => 2021-09-11T12:39:24.491Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [20] => Array
+        (
+            [id] => 248223
+            [name] => Doctor
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.197Z
+            [created_at] => 2021-09-11T12:17:01.197Z
+            [is_group] => 
+            [group_id] => 248219
+        )
+
+    [21] => Array
+        (
+            [id] => 248268
+            [name] => Domain/Hosting
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.463Z
+            [created_at] => 2021-09-11T12:39:24.463Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [22] => Array
+        (
+            [id] => 248254
+            [name] => Driver
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:37:43.307Z
+            [created_at] => 2021-09-11T12:37:43.307Z
+            [is_group] => 
+            [group_id] => 248253
+        )
+
+    [23] => Array
+        (
+            [id] => 248197
+            [name] => Education
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:57.648Z
+            [created_at] => 2021-09-11T12:13:57.648Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [24] => Array
+        (
+            [id] => 278423
+            [name] => Family
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-11-26T01:51:51.237Z
+            [created_at] => 2021-11-26T01:51:51.237Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [25] => Array
+        (
+            [id] => 278424
+            [name] => Fatema
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-11-26T01:51:51.249Z
+            [created_at] => 2021-11-26T01:51:51.249Z
+            [is_group] => 
+            [group_id] => 278423
+        )
+
+    [26] => Array
+        (
+            [id] => 248176
+            [name] => Food
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T11:53:04.597Z
+            [created_at] => 2021-09-11T11:53:04.597Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [27] => Array
+        (
+            [id] => 248270
+            [name] => Freelancer Payments
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.483Z
+            [created_at] => 2021-09-11T12:39:24.483Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [28] => Array
+        (
+            [id] => 248251
+            [name] => Friend
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:36:58.136Z
+            [created_at] => 2021-09-11T12:36:58.136Z
+            [is_group] => 
+            [group_id] => 248250
+        )
+
+    [29] => Array
+        (
+            [id] => 248237
+            [name] => Furniture
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.500Z
+            [created_at] => 2021-09-11T12:34:28.500Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [30] => Array
+        (
+            [id] => 248263
+            [name] => Gas/Power/Water
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:38:16.022Z
+            [created_at] => 2021-09-11T12:38:16.022Z
+            [is_group] => 
+            [group_id] => 248259
+        )
+
+    [31] => Array
+        (
+            [id] => 248214
+            [name] => Gift
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:16:07.777Z
+            [created_at] => 2021-09-11T12:16:07.777Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [32] => Array
+        (
+            [id] => 248215
+            [name] => Gift Colleague
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:16:07.784Z
+            [created_at] => 2021-09-11T12:16:07.784Z
+            [is_group] => 
+            [group_id] => 248214
+        )
+
+    [33] => Array
+        (
+            [id] => 248216
+            [name] => Gift Family
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:16:07.791Z
+            [created_at] => 2021-09-11T12:16:07.791Z
+            [is_group] => 
+            [group_id] => 248214
+        )
+
+    [34] => Array
+        (
+            [id] => 248218
+            [name] => Gift Others
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:16:07.804Z
+            [created_at] => 2021-09-11T12:16:07.804Z
+            [is_group] => 
+            [group_id] => 248214
+        )
+
+    [35] => Array
+        (
+            [id] => 248230
+            [name] => Grocery
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.447Z
+            [created_at] => 2021-09-11T12:34:28.447Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [36] => Array
+        (
+            [id] => 248219
+            [name] => Health
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.172Z
+            [created_at] => 2021-09-11T12:17:01.172Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [37] => Array
+        (
+            [id] => 248227
+            [name] => Health General
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.228Z
+            [created_at] => 2021-09-11T12:17:01.228Z
+            [is_group] => 
+            [group_id] => 248219
+        )
+
+    [38] => Array
+        (
+            [id] => 248225
+            [name] => Hospital
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.216Z
+            [created_at] => 2021-09-11T12:17:01.216Z
+            [is_group] => 
+            [group_id] => 248219
+        )
+
+    [39] => Array
+        (
+            [id] => 248282
+            [name] => Hosting Income
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.623Z
+            [created_at] => 2021-09-11T12:42:26.623Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [40] => Array
+        (
+            [id] => 248234
+            [name] => House Rent
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.477Z
+            [created_at] => 2021-09-11T12:34:28.477Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [41] => Array
+        (
+            [id] => 248229
+            [name] => Household
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.440Z
+            [created_at] => 2021-09-11T12:34:28.440Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [42] => Array
+        (
+            [id] => 248233
+            [name] => Household General
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.466Z
+            [created_at] => 2021-09-11T12:34:28.466Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [43] => Array
+        (
+            [id] => 248232
+            [name] => Household Items
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.460Z
+            [created_at] => 2021-09-11T12:34:28.460Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [44] => Array
+        (
+            [id] => 248236
+            [name] => Household Servicing
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.491Z
+            [created_at] => 2021-09-11T12:34:28.491Z
+            [is_group] => 
+            [group_id] => 248229
+        )
+
+    [45] => Array
+        (
+            [id] => 248276
+            [name] => Income
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.589Z
+            [created_at] => 2021-09-11T12:42:26.589Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [46] => Array
+        (
+            [id] => 248261
+            [name] => Internet
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:38:16.009Z
+            [created_at] => 2021-09-11T12:38:16.009Z
+            [is_group] => 
+            [group_id] => 248259
+        )
+
+    [47] => Array
+        (
+            [id] => 248277
+            [name] => IxDF
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.595Z
+            [created_at] => 2021-09-11T12:42:26.595Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [48] => Array
+        (
+            [id] => 248195
+            [name] => Jewellery
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:37.649Z
+            [created_at] => 2021-09-11T12:13:37.649Z
+            [is_group] => 
+            [group_id] => 248193
+        )
+
+    [49] => Array
+        (
+            [id] => 248244
+            [name] => Madrasa
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.959Z
+            [created_at] => 2021-09-11T12:35:30.959Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [50] => Array
+        (
+            [id] => 248196
+            [name] => Makeup/Saloon/Parlor
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:37.655Z
+            [created_at] => 2021-09-11T12:13:37.655Z
+            [is_group] => 
+            [group_id] => 248193
+        )
+
+    [51] => Array
+        (
+            [id] => 278425
+            [name] => Mamuni
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-11-26T01:52:47.151Z
+            [created_at] => 2021-11-26T01:52:47.151Z
+            [is_group] => 
+            [group_id] => 278423
+        )
+
+    [52] => Array
+        (
+            [id] => 248220
+            [name] => Medical Equipment
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.179Z
+            [created_at] => 2021-09-11T12:17:01.179Z
+            [is_group] => 
+            [group_id] => 248219
+        )
+
+    [53] => Array
+        (
+            [id] => 248222
+            [name] => Medicine
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:17:01.191Z
+            [created_at] => 2021-09-11T12:17:01.191Z
+            [is_group] => 
+            [group_id] => 248219
+        )
+
+    [54] => Array
+        (
+            [id] => 248279
+            [name] => Metrodesk
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.607Z
+            [created_at] => 2021-09-11T12:42:26.607Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [55] => Array
+        (
+            [id] => 250740
+            [name] => Misc
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-18T06:57:58.492Z
+            [created_at] => 2021-09-18T06:57:58.492Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [56] => Array
+        (
+            [id] => 248260
+            [name] => Mobile
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:38:16.003Z
+            [created_at] => 2021-09-11T12:38:16.003Z
+            [is_group] => 
+            [group_id] => 248259
+        )
+
+    [57] => Array
+        (
+            [id] => 248231
+            [name] => Moni
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:34:28.454Z
+            [created_at] => 2021-09-11T12:34:28.454Z
+            [is_group] => 
+            [group_id] => 278423
+        )
+
+    [58] => Array
+        (
+            [id] => 248243
+            [name] => Mosque
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.954Z
+            [created_at] => 2021-09-11T12:35:30.954Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [59] => Array
+        (
+            [id] => 248272
+            [name] => Office Expense
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.498Z
+            [created_at] => 2021-09-11T12:39:24.498Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [60] => Array
+        (
+            [id] => 248273
+            [name] => Office Setup
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.506Z
+            [created_at] => 2021-09-11T12:39:24.506Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [61] => Array
+        (
+            [id] => 248199
+            [name] => Online Course
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:13:57.662Z
+            [created_at] => 2021-09-11T12:13:57.662Z
+            [is_group] => 
+            [group_id] => 248197
+        )
+
+    [62] => Array
+        (
+            [id] => 248269
+            [name] => Online Services
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.475Z
+            [created_at] => 2021-09-11T12:39:24.475Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [63] => Array
+        (
+            [id] => 269426
+            [name] => Orphan
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-11-07T02:30:15.533Z
+            [created_at] => 2021-11-07T02:30:15.533Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [64] => Array
+        (
+            [id] => 248129
+            [name] => Other
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T08:19:56.005Z
+            [created_at] => 2021-09-11T08:19:56.005Z
+            [is_group] => 
+            [group_id] => 250740
+        )
+
+    [65] => Array
+        (
+            [id] => 248281
+            [name] => Other Income
+            [description] => 
+            [is_income] => 1
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:42:26.618Z
+            [created_at] => 2021-09-11T12:42:26.618Z
+            [is_group] => 
+            [group_id] => 248276
+        )
+
+    [66] => Array
+        (
+            [id] => 248252
+            [name] => Outing
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:36:58.142Z
+            [created_at] => 2021-09-11T12:36:58.142Z
+            [is_group] => 
+            [group_id] => 248250
+        )
+
+    [67] => Array
+        (
+            [id] => 255201
+            [name] => Payment, Transfer
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 1
+            [exclude_from_totals] => 
+            [updated_at] => 2021-10-02T03:56:21.071Z
+            [created_at] => 2021-10-02T03:56:21.071Z
+            [is_group] => 
+            [group_id] => 250740
+        )
+
+    [68] => Array
+        (
+            [id] => 248255
+            [name] => Public Transport
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:37:43.313Z
+            [created_at] => 2021-09-11T12:37:43.313Z
+            [is_group] => 
+            [group_id] => 248253
+        )
+
+    [69] => Array
+        (
+            [id] => 278430
+            [name] => Qurbani
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-11-26T04:19:45.993Z
+            [created_at] => 2021-11-26T04:19:45.993Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [70] => Array
+        (
+            [id] => 248241
+            [name] => Regular Sadaqa
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.942Z
+            [created_at] => 2021-09-11T12:35:30.942Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [71] => Array
+        (
+            [id] => 248240
+            [name] => Sadaqa
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.936Z
+            [created_at] => 2021-09-11T12:35:30.936Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [72] => Array
+        (
+            [id] => 248245
+            [name] => Shaykh Masum
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.964Z
+            [created_at] => 2021-09-11T12:35:30.964Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [73] => Array
+        (
+            [id] => 248182
+            [name] => Shoes
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:10:31.490Z
+            [created_at] => 2021-09-11T12:10:31.490Z
+            [is_group] => 
+            [group_id] => 248180
+        )
+
+    [74] => Array
+        (
+            [id] => 248250
+            [name] => Social Life
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:36:58.129Z
+            [created_at] => 2021-09-11T12:36:58.129Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [75] => Array
+        (
+            [id] => 248131
+            [name] => Software
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T08:28:59.296Z
+            [created_at] => 2021-09-11T08:28:59.296Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [76] => Array
+        (
+            [id] => 248192
+            [name] => Transaction Fees
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:12:30.785Z
+            [created_at] => 2021-09-11T12:12:30.785Z
+            [is_group] => 
+            [group_id] => 248189
+        )
+
+    [77] => Array
+        (
+            [id] => 248253
+            [name] => Transportation
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:37:43.301Z
+            [created_at] => 2021-09-11T12:37:43.301Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [78] => Array
+        (
+            [id] => 248179
+            [name] => Treat
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:00:14.149Z
+            [created_at] => 2021-09-11T12:00:14.149Z
+            [is_group] => 
+            [group_id] => 248176
+        )
+
+    [79] => Array
+        (
+            [id] => 248242
+            [name] => Ummah
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.948Z
+            [created_at] => 2021-09-11T12:35:30.948Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+    [80] => Array
+        (
+            [id] => 248259
+            [name] => Utilities
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:38:15.996Z
+            [created_at] => 2021-09-11T12:38:15.996Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [81] => Array
+        (
+            [id] => 248256
+            [name] => Vehicle Fees/Maintenance/Taxes
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:37:43.319Z
+            [created_at] => 2021-09-11T12:37:43.319Z
+            [is_group] => 
+            [group_id] => 248253
+        )
+
+    [82] => Array
+        (
+            [id] => 248257
+            [name] => Vehicle Fuel
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:37:43.325Z
+            [created_at] => 2021-09-11T12:37:43.325Z
+            [is_group] => 
+            [group_id] => 248253
+        )
+
+    [83] => Array
+        (
+            [id] => 248178
+            [name] => Work
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T11:56:32.177Z
+            [created_at] => 2021-09-11T11:56:32.177Z
+            [is_group] => 1
+            [group_id] => 
+        )
+
+    [84] => Array
+        (
+            [id] => 248267
+            [name] => Work Other
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:39:24.435Z
+            [created_at] => 2021-09-11T12:39:24.435Z
+            [is_group] => 
+            [group_id] => 248178
+        )
+
+    [85] => Array
+        (
+            [id] => 248247
+            [name] => Zakat/Fitra
+            [description] => 
+            [is_income] => 
+            [exclude_from_budget] => 
+            [exclude_from_totals] => 
+            [updated_at] => 2021-09-11T12:35:30.977Z
+            [created_at] => 2021-09-11T12:35:30.977Z
+            [is_group] => 
+            [group_id] => 248240
+        )
+
+)
